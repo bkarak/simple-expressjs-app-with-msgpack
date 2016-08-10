@@ -1,0 +1,10 @@
+{
+  "name": "simple_expressjs_with_msgpack",
+  "version": "1.0.0",
+  "licence": "Copyright © 2016 Mobiltron Inc. All rights reserved.",
+  "description": "A Simple ExpressJS Backend that accepts msgpack requests!",
+  "dependencies": {
+    "express": "latest",
+    "body-parser-with-msgpack": "latest"
+  }
+}
